@@ -1,0 +1,35 @@
+#login {
+  text-align: right;
+  padding: 10px 8ex;
+  background-color: rgba(253, 203, 78, 0.795);
+  font-size: px;
+  font-weight: bold;
+  border-radius: 10px;
+  border-color: rgba(0, 0, 0, 0.856);
+}
+
+input {
+  opacity: 80%;
+  border-radius: 6px;
+  border-top-style: unset;
+  border-bottom-color: rgb(82, 82, 82);
+  border-bottom-style: solid;
+  padding: 10px;
+  background-color: #f0f0f0;
+  margin-left: 20px;
+}
+body {
+  background-image: url(/Images/tutankhamen-2336122_19200.jpg);
+}
+::placeholder {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  opacity: 100%;
+}
+#trans {
+  color: #f0f0f0;
+}
+html,
+body {
+  min-height: 100%;
+}
